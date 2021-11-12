@@ -26,8 +26,9 @@ body::before {
   height: 100vh;
   z-index: -1;
 }
-@media (min-width: 1024px) {
+@media(min-width: 1024px) {
   body::before {
+    background-repeat: no-repeat;
     background-attachment: fixed;
   }
 }
