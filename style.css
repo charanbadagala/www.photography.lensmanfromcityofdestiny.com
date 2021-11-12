@@ -860,6 +860,17 @@ section .container {
   background-color: #18d26e;
 }
 
+.twitter{
+  margin-left: 5px;
+}
+.instagram{
+  margin-left: 5px;
+}
+span:hover{
+  font-size: 28px;
+  text-align: center;
+}
+
 /*--------------------------------------------------------------
 # Contact
 --------------------------------------------------------------*/
